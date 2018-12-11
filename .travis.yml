@@ -19,8 +19,8 @@ install:
   - npm install -g yarn
 
 script:
-  - yarn lint
-  - yarn build --base-href https://d0man.github.io/UnicornSurvey/
+#  - yarn lint
+#  - yarn build --base-href https://d0man.github.io/UnicornSurvey/
 deploy:
   provider: pages
   skip-cleanup: true
