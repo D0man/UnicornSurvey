@@ -2,7 +2,7 @@
   "name": "unicornsurvey",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:d0man/UnicornSurvey.git",
+  "repository": "https://github.com/d0man/UnicornSurvey.git",
   "author": "d0man <jakub.tomasz.domanski@gmail.com>",
   "license": "MIT"
 }
